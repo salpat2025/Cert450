@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help>
+        <!-- Enrolled - Student is enrolled in course delivery.
+Completed - Student attended course delivery.
+Course Cancelled - AW Computing cancelled course delivery.
+No Show - Student did not show up for course delivery. -->
+    </help>
+    <label><!-- Status --></label>
+    <name>Status__c</name>
+    <picklistValues>
+        <masterLabel>Completed</masterLabel>
+        <translation><!-- Completed --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Course Cancelled</masterLabel>
+        <translation><!-- Course Cancelled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Enrolled</masterLabel>
+        <translation><!-- Enrolled --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>No Show</masterLabel>
+        <translation><!-- No Show --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

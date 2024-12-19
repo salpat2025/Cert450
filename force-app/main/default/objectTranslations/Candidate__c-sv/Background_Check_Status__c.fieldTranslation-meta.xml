@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <label><!-- Background Check Status --></label>
+    <name>Background_Check_Status__c</name>
+    <picklistValues>
+        <masterLabel>Complete</masterLabel>
+        <translation><!-- Complete --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pending - Sent</masterLabel>
+        <translation><!-- Pending - Sent --></translation>
+    </picklistValues>
+    <picklistValues>
+        <masterLabel>Pending - Unsent</masterLabel>
+        <translation><!-- Pending - Unsent --></translation>
+    </picklistValues>
+</CustomFieldTranslation>

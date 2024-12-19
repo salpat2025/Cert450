@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Paris, FR</fullName>
+        <default>false</default>
+        <label>Paris, FR</label>
+    </customValue>
+    <customValue>
+        <fullName>London, GB</fullName>
+        <default>false</default>
+        <label>London, GB</label>
+    </customValue>
+    <customValue>
+        <fullName>Berlin, DE</fullName>
+        <default>false</default>
+        <label>Berlin, DE</label>
+    </customValue>
+    <masterLabel>EMEA</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

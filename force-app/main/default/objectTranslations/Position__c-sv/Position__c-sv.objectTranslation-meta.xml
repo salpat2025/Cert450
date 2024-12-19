@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <article>None</article>
+        <plural>false</plural>
+        <value>Position</value>
+    </caseValues>
+    <caseValues>
+        <article>None</article>
+        <plural>true</plural>
+        <value>Position</value>
+    </caseValues>
+    <gender>Neuter</gender>
+    <recordTypes>
+        <description><!-- Used to create non-technical Positions --></description>
+        <label><!-- NonTechnicalPosition --></label>
+        <name>NonTechnicalPosition</name>
+    </recordTypes>
+    <recordTypes>
+        <description><!-- Used to create Positions in IT and Engineering only --></description>
+        <label><!-- TechnicalPosition --></label>
+        <name>TechnicalPosition</name>
+    </recordTypes>
+</CustomObjectTranslation>

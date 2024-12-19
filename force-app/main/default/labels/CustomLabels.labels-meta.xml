@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Invalid_Delivery_Start_Date</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>Invalid Delivery Start Date</shortDescription>
+        <value>Course Delivery can not be scheduled because it starts on holiday</value>
+    </labels>
+</CustomLabels>

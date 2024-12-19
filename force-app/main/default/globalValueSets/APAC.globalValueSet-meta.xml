@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalValueSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <customValue>
+        <fullName>Tokyo, JP</fullName>
+        <default>false</default>
+        <label>Tokyo, JP</label>
+    </customValue>
+    <customValue>
+        <fullName>Singapore, SG</fullName>
+        <default>false</default>
+        <label>Singapore, SG</label>
+    </customValue>
+    <masterLabel>APAC</masterLabel>
+    <sorted>false</sorted>
+</GlobalValueSet>

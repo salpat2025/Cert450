@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomFieldTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <help><!-- Identifies an area within the US served by a member of the House or Senate. If an Army/Air Force or fleet post office is used for this address, this field will be blank. If only one member of Congress within a state, the code will be AL (at large). --></help>
+    <label><!-- Congress District --></label>
+    <name>Congress_District__c</name>
+</CustomFieldTranslation>
